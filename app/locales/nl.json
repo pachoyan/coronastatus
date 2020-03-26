@@ -176,5 +176,7 @@
   "Help us uncover and predict the corona spread in your area": "Help ons de verspreiding van het coronavirus te <span>ontdekken</span> en <span>voorspellen</span> in uw omgeving",
   "Numbers": "Cijfers",
   "#washyourhands": "#wash<wbr/>your<wbr/>hands",
-  "#stayindoors": "#stay<wbr/>indoors"
+  "#stayindoors": "#stay<wbr/>indoors",
+  "In isolation due to orders from the government": "In isolation due to orders from the government",
+  "In isolation due to COVID-19 infection": "In isolation due to COVID-19 infection"
 }

@@ -176,5 +176,7 @@
   "Help us uncover and predict the corona spread in your area": "Help us <span>uncover</span> and <span>predict</span> the corona spread in your area",
   "Numbers": "Numbers",
   "#washyourhands": "#wash<wbr/>your<wbr/>hands",
-  "#stayindoors": "#stay<wbr/>indoors"
+  "#stayindoors": "#stay<wbr/>indoors",
+  "In isolation due to orders from the government": "In isolation due to orders from the government",
+  "In isolation due to COVID-19 infection": "In isolation due to COVID-19 infection"
 }
